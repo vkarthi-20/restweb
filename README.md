@@ -513,10 +513,10 @@ h2,h3,h4{
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot (33).png>)
-![alt text](<Screenshot (34).png>)
-![alt text](<Screenshot (35).png>)
-![alt text](<Screenshot (36).png>)
+![alt text](<Screenshot (123).png>)
+![alt text](<Screenshot (124).png>)
+![alt text](<Screenshot (125).png>)
+![alt text](<Screenshot (126).png>)
 
 
 ## RESULT:

@@ -1,0 +1,55 @@
+body{
+    background-image:url(restaurant4.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a{
+    padding: 15px;
+    color:rgb(88, 245, 3);
+    position: relative;
+    left: 1100px;
+    top: 20px;
+    font-size: 20px;
+    font-size: x-large;
+}
+.admin{
+    display: grid;
+    grid-template-columns: repeat(6,1fr);
+    font-size: 20px;
+    gap:10px;
+}
+img{
+    width: 210px;
+    height: 300px;
+    border:solid 5px rgb(195, 68, 68);
+}
+.a1,.a2,.a3,.a4,.a5,.a6{
+    padding: 5px;
+    background-color: rgb(246, 237, 237);
+    text-align: center;
+    font-size: 24px;
+    
+}
+.bottom{
+    font-size: 30px;
+    text-align: center;
+    background-color:white;
+    position: relative;
+    top: 60px;
+    color:white;
+}
+h1{
+    text-align: center;
+    color:rgb(243, 245, 235);
+    font-size: 40px;
+}
+.bottom{
+    font-size: 30px;
+    text-align: center;
+    position: relative;
+    top: 125px;
+    background-color: brown;
+    width: 1550px;
+}
+
